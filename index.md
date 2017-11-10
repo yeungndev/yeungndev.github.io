@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### Recommended Reading
-<em>(some links below are affiliate links)</em>
+<em>(some affiliate links below)</em>
 - <a target="_blank" href="https://www.amazon.com/gp/product/1936891026/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1936891026&linkCode=as2&tag=yeungndev-20&linkId=f879e88d38a0b9e28a10a7ba60bcf14b">The War of Art: Break Through the Blocks and Win Your Inner Creative Battles</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=yeungndev-20&l=am2&o=1&a=1936891026" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 - <a target="_blank" href="https://www.amazon.com/gp/product/0307465357/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307465357&linkCode=as2&tag=yeungndev-20&linkId=7766ffcc70153420bea6dcd37964625b">The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=yeungndev-20&l=am2&o=1&a=0307465357" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 - <a target="_blank" href="https://www.amazon.com/gp/product/1626340463/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1626340463&linkCode=as2&tag=yeungndev-20&linkId=67bfabc6feaa4755b18362d965e9ebcd">The Slight Edge: Turning Simple Disciplines into Massive Success and Happiness</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=yeungndev-20&l=am2&o=1&a=1626340463" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
