@@ -8,10 +8,8 @@ layout: default
 
 ### Tools
 * [myWeb Hook](http://mexitek.github.io/myWebHook/)
-* [https://alf.nu/RegexGolf](https://alf.nu/RegexGolf)
-* [RegexOne](https://regexone.com/)
 * [Share code in real-time with other developers](https://codeshare.io)
-* [CoderPad helps you interview your candidates in an intuitive live programming environment](https://coderpad.io)
+* [CoderPad helps you interview your candidates](https://coderpad.io)
 * [Programming Puzzle](https://codegolf.stackexchange.com)
 * [http://www.thesuccessalliance.com](http://www.thesuccessalliance.com)
 * [Moo](https://www.moo.com/us/)
@@ -48,7 +46,7 @@ layout: default
 
 ### Open Source
 * [up-for-grabs](http://up-for-grabs.net/#/)
-* [Open Soure Initiative]((https://opensource.org)
+* [Open Soure Initiative](https://opensource.org)
 * [Netflix](https://netflix.github.io)
 
 ### Gists
@@ -62,6 +60,7 @@ layout: default
 * [An interactive git visualization to challenge and educate!](https://github.com/pcottle/learnGitBranching)
 * [Explaining git with D3](https://github.com/onlywei/explain-git-with-d3)
 * [Managing Multiple Github Accounts](http://mherman.org/blog/2013/09/16/managing-multiple-github-accounts/#.WgXv7bGZMUE)
+* [Try Git](https://try.github.io/levels/1/challenges/1)
 
 ### Resources
 * [UNREASONABLE.is](UNREASONABLE.is)
@@ -85,8 +84,8 @@ layout: default
 * [Thom Parkin](https://github.com/parkint)
 * [Minimal Theme for Github pages](https://github.com/orderedlist/minimal)
 * [Explaining git with D3](https://github.com/onlywei/explain-git-with-d3)
-* [Awesome Remote Job](https://github.com/natemcguire/awesome-remote-job)
-* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
+* [Awesome Remote Job - natemcguire](https://github.com/natemcguire/awesome-remote-job)
+* [Awesome Remote Job - lukasz-madon](https://github.com/lukasz-madon/awesome-remote-job)
 * [Code Quizzes](https://github.com/MrPowers/code_quizzer)
 * [Just! Build! Websites!](https://github.com/melanierichards/just-build-websites)
 * [Nyc Workspace finder Ruby Gem](https://github.com/jwolfe890/nyc_workspace_finder)
@@ -105,7 +104,7 @@ layout: default
 
 
 ### Blogs
-* [bryant tunbutr](http://www.bryanttunbutr.com) Juniors Should Know?
+* [bryant tunbutr](http://www.bryanttunbutr.com)
 * [Bryce McDonnell](https://www.brycemcdonnell.com)
 * [Noah Gibbs](http://codefol.io/)
 * [Harry - CSS Wizardry](https://csswizardry.com/)
@@ -218,7 +217,7 @@ layout: default
 * [meh](https://meh.com)
 
 ### Regex
-* [https://alf.nu/RegexGolf](https://alf.nu/RegexGolf)
+* [RegexGolf](https://alf.nu/RegexGolf)
 * [RegexOne](https://regexone.com/)
 * [Regexr](https://regexr.com)
 
