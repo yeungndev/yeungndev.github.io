@@ -18,6 +18,7 @@ layout: default
 * [Balsamic Mockup](https://balsamiq.com)
 * [jsfiddle](https://jsfiddle.net)
 * [First Pull Request](http://firstpr.me/#yeungn)
+* [Thumbtack](https://www.thumbtack.com)
 
 ### JavaScript
 * [Node.js and JavaScript Screencasts for Back-end Developer](https://sub.watchmecode.net/)
@@ -205,6 +206,7 @@ layout: default
 * [Bonsai](https://www.hellobonsai.com/) - Freelance
 * [Basecamp](https://basecamp.com)
 * [Gumroad](https://gumroad.com)
+* [Business phone Number](https://grasshopper.com)
 
 ### Job Resources
 * [Startup Job Fair](http://nyc.startupjobfair.org/)
@@ -213,8 +215,13 @@ layout: default
 * [http://overapi.com/](http://overapi.com/)
 
 ### Shopping
-* [https://rebag.com/](https://rebag.com/)
+* [Rebag](https://rebag.com/)
 * [meh](https://meh.com)
+* [Design by Humans](https://www.designbyhumans.com)
+* [Bombfell](https://www.bombfell.com)
+* [Mott & Bow](https://www.mottandbow.com)
+* [Threadless](https://www.threadless.com)
+* [Spread Shirt](https://www.spreadshirt.com)
 
 ### Regex
 * [RegexGolf](https://alf.nu/RegexGolf)
@@ -238,4 +245,30 @@ layout: default
 * [Learning to Code: When It Gets Dark](https://medium.freecodecamp.org/learning-to-code-when-it-gets-dark-e485edfb58fd#.6503hxe4p)
 * [The best job application I’ve ever received](https://medium.com/@steviebuckley/the-best-job-application-i-ve-ever-received-c34acb2b242e#.ja7lh4rqw)
 - [On Interviewing as a Junior Dev](https://lizmrush.com/on-interviewing/)
+* [Hacking with Jekyll, VueJS & Bulma](https://scifabric.com/blog/2017/10/13/jekyll-vuejs-bulma.html)
 
+### Hackthon
+* [Thorn](https://www.wearethorn.org/hackathon-2017-thorn/)
+
+### Window and Paint Protection tools
+* [44tools](http://44tools.com)
+
+### Home
+* [Wayfair](https://www.wayfair.com)
+* [Knobs Etc.](http://www.knobs-etc.com)
+* [Houzz](https://www.houzz.com)
+* [Home Click](http://www.homeclick.com)
+* [Home Perfect](https://www.homeperfect.com)
+* [Gracious Home](https://gracioushome.com)
+* [Home Decor Hardware](https://www.homedecorhardware.com/index.html)
+* [AH turf](http://ahturf.com/store/index.php?route=common/home)
+* [Cabinet Parts](https://www.cabinetparts.com)
+* [Apartment Therapy](http://www.apartmenttherapy.com)
+* [The Mine](https://www.themine.com)
+* [Plum Tile](https://www.plumbtile.com)
+* [Drawer Slides](https://www.drawerslides.com)
+* [My Knobs](https://www.myknobs.com)
+* [The Hardware Hut](https://www.thehardwarehut.com)
+* [Richelieu](https://www.richelieu.com/us/en/)
+* [Kitchen Source](http://www.kitchensource.com)
+* [Build.com](https://www.build.com)
