@@ -23,6 +23,7 @@ layout: default
 ### JavaScript
 * [Node.js and JavaScript Screencasts for Back-end Developer](https://sub.watchmecode.net/)
 * [NodeSchool](https://nodeschool.io/)
+* [list.js](https://github.com/javve/list.js)
 
 ### Ruby
 * [I Want to Learn Ruby](http://iwanttolearnruby.com/)
