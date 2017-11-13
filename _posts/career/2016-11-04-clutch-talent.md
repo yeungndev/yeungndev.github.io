@@ -3,7 +3,7 @@ layout: post
 title: Clutch Talent
 date:   2016-11-04 06:53
 categories: career
-tags: [todo, notes, follow-up]
+tags: [notes, follow-up]
 ---
 
 ### Ruby Study Problems

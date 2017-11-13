@@ -1,6 +1,7 @@
 ---
 layout: post
 title: dev resources
+tags: [resources]
 ---
 
 ### javascript
