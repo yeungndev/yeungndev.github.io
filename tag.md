@@ -1,17 +1,5 @@
 ---
 layout: post
-title: 11-12-2017 todo
-tags: todo
----
-
-* [Michael Lanyon](https://github.com/lanyonm)
-* [Per Sandstrom](https://www.helloper.com) - design looks good on mobile. Using middleman static blog.
-
-This is a great resource for the jekyll blog. It includes [tags](https://blog.lanyonm.org/tags.html). is it title sorted by any way ??
-
-```
----
-layout: page
 title: Tags
 description: "An archive of posts sorted by tag."
 ---
@@ -38,4 +26,3 @@ description: "An archive of posts sorted by tag."
   </ul>
   {% endunless %}{% endfor %}
 </div>
-```
