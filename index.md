@@ -20,6 +20,7 @@ layout: default
 * <a target="_blank" href="https://www.amazon.com/gp/product/B0145M39N8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0145M39N8&linkCode=as2&tag=yeungndev-20&linkId=2d31d047d9cd660d655a767772242cc1">LAUNCH: A Fast-Track Summary of the Jeff Walker Book (Fast-Track Guides)</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=yeungndev-20&l=am2&o=1&a=B0145M39N8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 * <a target="_blank" href="https://www.amazon.com/gp/product/1612680194/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1612680194&linkCode=as2&tag=yeungndev-20&linkId=683dccd9b68313784bf6c96a55da148b">Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=yeungndev-20&l=am2&o=1&a=1612680194" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 * [The Ultimate Sales Letter 4Th Edition: Attract New Customers](https://www.amazon.com/Ultimate-Sales-Letter-4Th-Customers-ebook/dp/B004J35JFU)
+* [Deep thinking - Cal newport]()
 
 ### Free Learning courses
 * [FreeCodeCamp](https://www.freecodecamp.org)

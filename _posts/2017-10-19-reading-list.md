@@ -33,3 +33,5 @@ categories: [reading]
 - [Coderust 2.0: Faster Coding Interview Preparation using Visualizations](http://blog.interviewing.io/we-built-voice-modulation-to-mask-gender-in-technical-interviews-heres-what-happened/
 https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c#.tudyuyqte)
 - [The Genius and Tragedy of Patrick McKenzie](http://sebastianmarshall.com/the-genius-and-tragedy-of-patrick-mckenzie)
+
+### books
