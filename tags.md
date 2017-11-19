@@ -1,43 +1,6 @@
 ---
-layout: post
-title: todo
-tags: todo
----
-
-* [Just Build Websites](https://github.com/melanierichards/just-build-websites)
-
-Volunteer
-* [Catch a fire](https://www.catchafire.org)
-* [Code for America](https://www.codeforamerica.org)
-* [Volunteer Match](https://www.volunteermatch.org)
-
-* [Can I use](https://caniuse.com)
-* [Style Guides](http://styleguides.io/examples.html)
-* [Intro of the show Stranger Things in CSS](https://github.com/wbobeirne/stranger-things)
-
-- Reflection daily / weekly
-- Organizing my thoughts using a Jekyll blog? how?
-  - What is the best approach to this problem??
-- Linkedin profile building
-- Need introduction bio script
-- Search Insecure about linkedin profile
-- Server
-- Volunteer
-- Wordcamp NYC 2017
-- FolkArt Rajasthan
-- 48in48 
-- Enthustiastic, energetic,
-- Open to disscussion
-
-* [Michael Lanyon](https://github.com/lanyonm)
-* [Per Sandstrom](https://www.helloper.com) - design looks good on mobile. Using middleman static blog.
-
-This is a great resource for the jekyll blog. It includes [tags](https://blog.lanyonm.org/tags.html). is it title sorted by any way ??
-
-```
----
 layout: page
-title: Tags
+# title: Tags
 description: "An archive of posts sorted by tag."
 ---
 
@@ -63,4 +26,3 @@ description: "An archive of posts sorted by tag."
   </ul>
   {% endunless %}{% endfor %}
 </div>
-```

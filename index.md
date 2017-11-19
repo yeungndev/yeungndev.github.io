@@ -1,5 +1,10 @@
 ---
 layout: default
+og:
+  image: 'michael-lanyon-bio-photo.jpg'
+  type: 'image/jpeg'
+  width: '400'
+  height: '400'
 ---
 
 ### Guide
@@ -32,4 +37,3 @@ layout: default
 
 ### Books 
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
-
