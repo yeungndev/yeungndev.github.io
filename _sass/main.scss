@@ -32,9 +32,9 @@ html {
 
 pre {
   overflow: auto;
-  white-space: pre;
+  white-space: pre-wrap;
   word-break: normal;
-  word-wrap: normal;
+  // word-wrap: normal;
 }
 
 code table {

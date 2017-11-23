@@ -3,7 +3,7 @@ layout: post
 title: "Some helpful commands"
 description: ""
 category: articles
-tags: [commands, software, git, version control]
+tags: [commands, software, git, version control, resources]
 comments: true
 ---
 
@@ -75,9 +75,10 @@ settings on a mac (here is my setting from my iMac)
 
 ```
 
+* [adding ssh keys `$ ssh-add -K ~/.ssh/id_rsa`](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#adding-your-ssh-key-to-the-ssh-agent)
+
 # links to other helpful resources
 * [Git Book](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases)
 
-<hr>
 
 
