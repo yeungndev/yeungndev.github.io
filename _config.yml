@@ -6,7 +6,7 @@ exclude: [Gemfile, Gemfile.lock, README.md]
 markdown: kramdown
 
 author: 'yeungn'
-disqus_shortname: yeungndev
+disqus_shortname: yeungndev-github-io
 google_analytics: UA-109542383-1
 
 gems:
