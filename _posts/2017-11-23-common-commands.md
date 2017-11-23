@@ -9,7 +9,13 @@ comments: true
 
 # 2017-11-23
 
-* # where to find your `git config --global` settings on a mac (here is my setting from my iMac)
+* # where to find your 
+
+`git config --global` `~/.gitconfig` 
+
+or in the command line `git config --list` 
+
+settings on a mac (here is my setting from my iMac) 
 
 ```
 ~/.gitconfig
