@@ -6,6 +6,7 @@ tags: [resources]
 
 ### learning
 * [Teach yourself to code](http://teachyourselftocode.com)
+
 ### javascript
 * [Learn JavaScript by adventuring around in the terminal](https://github.com/workshopper/javascripting)
 
