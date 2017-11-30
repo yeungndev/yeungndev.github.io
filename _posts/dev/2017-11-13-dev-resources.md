@@ -4,6 +4,8 @@ title: dev resources
 tags: [resources]
 ---
 
+### learning
+* [Teach yourself to code](http://teachyourselftocode.com)
 ### javascript
 * [Learn JavaScript by adventuring around in the terminal](https://github.com/workshopper/javascripting)
 
@@ -30,6 +32,7 @@ tags: [resources]
 
 ### jekyll
 * [Jekyll forum](http://talk.jekyllrb.com)
+
 
 ### interview Questions
 * [Front End Developer Question](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
@@ -145,6 +148,7 @@ tags: [resources]
 * [A workshopper for learning Git and GitHub. The guideTransmuter](https://github.com/workshopper/javascripting)
 * [The Alien device to convert Markdown and Textile files to HTML or PDF](The Alien device to convert Markdown and Textile files to HTML or PDF)
 * [Figaro - Simple Rails app configuration](https://github.com/laserlemon/figaro)
+* [Jarrek](https://github.com/jarrekk))
 
 
 ### Blogs
