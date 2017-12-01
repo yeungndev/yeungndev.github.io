@@ -18,4 +18,4 @@ sass:
     sass_dir: _sass
     style: :compressed
 
-permalink: pretty
+permalink: /:title
