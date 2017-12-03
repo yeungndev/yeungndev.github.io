@@ -28,3 +28,5 @@ Github
 Veronica Ludwig - Director of Community at the CivicHall. She was nice enough to introduce herself to me and we spoke briefly about ourselves. I've learned that she was trying to learn some python, but her role there at CivicHall has kept her busy.
 
 We spoke about my background and how I was learning RoR and that lead to her speaking of the CivicHall site revamping that her tech team are trying to create. She mention the name of the repo, but I could not locate it on Github. If I remember the features they are trying to build are some type of event planning.
+
+* [Cesar Gutierrez](http://www.hicesar.com) - met at a restaurant meetup in nyc
