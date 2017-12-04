@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Reading List
-permalink: /:title/
 date: 2017-10-18 16:17:00
 categories: [reading]
 ---

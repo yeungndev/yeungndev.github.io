@@ -11,3 +11,4 @@ title: a place to store some words and daily thoughts
 * Clarity
 * Rant
 * Self esteem
+*

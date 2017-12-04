@@ -7,8 +7,8 @@ layout: default
 <script src="/js/search-script.js"></script>
 
   <!-- Html Elements for Search -->
-  <div id="search-container">
-    <input type="text" id="search-input" placeholder="search...">
+  <div id="search-container" class="center">
+    <input type="text" id="search-input" placeholder="what are you looking for?">
   </div>
   <ul id="results-container"></ul>
 

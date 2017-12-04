@@ -5,7 +5,7 @@ tag: [crypto currentcy, bitcoin]
 ---
 
 * [Andreas M. Antonopoulos]()
-  * [Mastering Bitcoin]()
+  * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/second_edition/ch01.asciidoc)
   * [The Internet of Money]()
   * [Mastering Ethereum]()
   * []()
@@ -26,3 +26,8 @@ tag: [crypto currentcy, bitcoin]
 * [ZK-Snark]()
 * [Ethereum Metropolis]()
 
+# Current Market Rate 
+
+* [Bitcoin Average](http://bitcoinaverage.com/)
+* [CoinCap](http://coincap.io/)
+* [Chicago Mercantile Exchange Bitcoin Reference Rate](http://bit.ly/cmebrr)
