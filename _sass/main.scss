@@ -32,8 +32,9 @@ html {
 
 pre {
   overflow: auto;
-  white-space: pre-wrap;
+  white-space: pre;
   word-break: normal;
+  height: 300px;
   // word-wrap: normal;
 }
 
