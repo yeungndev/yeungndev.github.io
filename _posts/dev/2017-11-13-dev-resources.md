@@ -4,6 +4,8 @@ title: dev resources
 tags: [resources]
 ---
 
+* [Bootstrap 4: Everything You Need to Know - Ohans Emmanuel](https://medium.freecodecamp.org/@ohansemmanuel)
+
 ### learning
 * [Teach yourself to code](http://teachyourselftocode.com)
 * [Free Code Camp]()
