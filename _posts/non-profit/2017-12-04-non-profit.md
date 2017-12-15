@@ -81,3 +81,25 @@ o From a user’s viewpoint?
 ▪ When do you want to complete the project?
 ▪ Do you have the available resources to complete your project on time?
 ▪ Who will be responsible for managing the project plan and timeline?
+
+48in48
+Identify Your Nonprofit’s Goals
+- [ ] Why do they need the website?
+* So our potential donors can evaluate our organization.
+* So our visitors know about upcoming events.
+* So students can access our resources.
+facing internal disagreements
+
+Top Tasks
+Once you’ve got a list of your types of users, consider what each type of user primarily needs to accomplish?
+* A donor needs to find the donate button.
+* A researcher needs to locate a specific resources.
+* A parent needs to know your emergency contact information.
+does this support our agreed upon goals?
+- [ ] Media Files from Organization. Logo, Content
+- [ ] Templates?
+- [ ] speed optimize?
+- [ ] accessability?
+
+
+- [ ] Power Strip
