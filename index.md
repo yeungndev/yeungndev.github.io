@@ -6,6 +6,7 @@ layout: default
 * [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
 
 ### Free Learning courses
+* [Watch and Code](https://watchandcode.com/) by Gordon Zhu
 * [FreeCodeCamp](https://www.freecodecamp.org)
 * [Learn code the Hard Way](https://learncodethehardway.org/)
 * [Learn to Code HTML & CSS](https://learn.shayhowe.com/)
