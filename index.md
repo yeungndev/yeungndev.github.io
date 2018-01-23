@@ -4,6 +4,7 @@ layout: default
 
 ### Reading
 * [Start-up of You](http://amzn.to/2F8iDdX) - by Reid Hoffman
+
 ### Guide
 * [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
 
