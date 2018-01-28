@@ -13,6 +13,7 @@ layout: default
 * [Code Abbey](http://www.codeabbey.com/)
 * [Code Conquest](http://www.codeconquest.com/)
 * [Codewars](https://www.codewars.com/)
+* [Stanford Online](https://lagunita.stanford.edu/)
 
 ### Books 
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
