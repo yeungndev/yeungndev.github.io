@@ -4,6 +4,8 @@ description: 'brain dump'
 
 exclude: [Gemfile, Gemfile.lock, README.md]
 markdown: kramdown
+kramdown:
+  input: GFM
 
 author: 'yeungn'
 disqus_shortname: yeungndev-github-io
