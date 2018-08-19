@@ -6,6 +6,9 @@ tags: [health, fitness]
 
 <em>Goal is to get lean this year (2018)</em>
 
+* [3 Weeks To Lean!](https://www.bodybuilding.com/content/3-weeks-to-lean.html)
+* [23 Recipes To Make You A Lean, Mean, Clean-Eating Machine | Allrecipes](http://dish.allrecipes.com/23-recipes-to-make-you-a-lean-mean-clean-eating-machine/)
+
 * [Strength Development — CrossFit Gymnastics](http://www.crossfitgymnastics.com/wod/)
 * [The Best 40-Minute Workout To Do At The Gym \| SELF](https://www.self.com/story/the-best-way-to-spend-40-minutes-at-the-gym)
 * [Get Back to Basics With Over a Year of Free Gymnastics Workouts \| Breaking Muscle](https://breakingmuscle.com/fitness/get-back-to-basics-with-over-a-year-of-free-gymnastics-workouts)
