@@ -1,0 +1,50 @@
+html {margin: 0;padding: 0;}
+body {background: #fff;margin: 0;}
+body, input, textarea {color: #222;font-family: Arial,sans-serif;line-height: 1.5;}
+h1, h2, h3, h4, h5, h6 {font-weight: normal;clear: both;}
+hr {background-color: #999;border: 0;height: 1px;margin-bottom: 1.5em;}
+pre {font: 11px Monaco,monospace;line-height: 1.5;margin-bottom: 1.5em;}
+code {font: 11px Monaco,monospace;}
+p {margin: 4px 0 12px 0;}
+a {color: #0a77e6;}
+a:hover {color: #065c88;}
+a:visited {color: #8b46d1;}
+div#container {margin: 4px 4px 4px 4px;}
+div#content {}
+.menu ul {list-style: none;margin: 0;}
+.menu ul ul {display: none;}
+.menu li {display: inline;float: left;padding: 0 8px 0 4px;}
+.menu-item {}
+.menu-item a {font-size: 30px;text-decoration: none;color: #3eaf00;}
+.menu-item a:hover {color: #5d8a05;}
+h1.entry-title {}
+h2.entry-title {}
+h2.entry-title a {}
+h1.page-title {}
+.alignright {padding: 8px 0 8px 8px;float: right;}
+.alignleft {padding: 8px 8px 8px 0;float: left;}
+.entry-content {}
+.entry-content a {}
+.entry-content a:hover {}
+.entry-content h1, h2, h3, h4, h5 {}
+.entry-content ol li {}
+.entry-utility {}
+.entry-meta {}
+.skip-link {}
+.navigation {}
+div#comments {}
+.comments h3 {}
+.comments ol {}
+.comments ol li {}
+.comments img {float: left;margin: 0 12px 8px 0;}
+.comments .comment {}
+.children ul li {}
+.comment-reply-link {}
+.comment-meta {}
+div#respond {}
+div#respond h3 {}
+div#primary {}
+div#secondary {}
+.widget-area {}
+.xoxo {}
+div#footer {float: left;clear: both;}
