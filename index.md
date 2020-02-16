@@ -2,14 +2,6 @@
 layout: default
 ---
 
-
-
-### Guide
-* [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
-
-### Books 
-* [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
-
 ### Productivity Tools
 * [Tomato Timer](https://tomato-timer.com/#) - Pomodoro
 * [Time Out](https://itunes.apple.com/us/app/time-out-break-reminders/id402592703?mt=12)
