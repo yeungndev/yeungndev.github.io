@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: page
 title: About
 ---
-
-{% include smoke-free.html %}
 
 Welcome to my digital home. Feel free to look around.
 
