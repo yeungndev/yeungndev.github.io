@@ -3,27 +3,50 @@ layout: page
 title: Nobu Menu
 ---
 
-## [Soy Based Sauces](#soy-based-sauces)
+- [Menu](#menu)
+  - [Cold Dishes](#cold-dishes)
+  - [Hot Dishes](#hot-dishes)
+  - [Desserts](#desserts)
+- [Specialty Cocktails](#specialty-cocktails)
+  - [Grand Cordon](#grand-cordon)
+- [Wines by the Galss](#wines-by-the-galss)
+  - [Reserve Selection](#reserve-selection)
+  - [Champange & Sparkling Wine](#champange--sparkling-wine)
+  - [White Wine](#white-wine)
+  - [Rose](#rose)
+  - [Red Wine](#red-wine)
+- [Hokusetsu Sake Selection](#hokusetsu-sake-selection)
+- [Beer](#beer)
+- [Whiskey](#whiskey)
+  - [Nobu Whisky, Single Malt \| Yamazaki, Osaka](#nobu-whisky-single-malt--yamazaki-osaka)
+  - [Bourbon](#bourbon)
+- [Vodka](#vodka)
+- [Gin](#gin)
+- [Rum](#rum)
+- [Non-Alcoholic Drinks](#non-alcoholic-drinks)
+- [Ikaati Tea](#ikaati-tea)
+- [Champagne & Sparkling](#champagne--sparkling)
+- [Rose Champagne & Sparkling](#rose-champagne--sparkling)
+- [Rose](#rose-1)
+- [White Wine](#white-wine-1)
+  - [Light, Crisp & Refreshing](#light-crisp--refreshing)
+  - [Spicy & Aromatic](#spicy--aromatic)
+  - [Rich & Full Bodied](#rich--full-bodied)
+- [Red Wine](#red-wine-1)
+  - [Light & Medium Bodied](#light--medium-bodied)
+  - [Robust & Spicy](#robust--spicy)
+  - [Rich & Full Bodied](#rich--full-bodied-1)
+- [Sauces](#sauces)
+  - [Dressing](#dressing)
+  - [Aioli Based Sauces](#aioli-based-sauces)
+  - [Miso Based Sauces](#miso-based-sauces)
+  - [Salsas](#salsas)
+  - [Soy Based Sauces](#soy-based-sauces)
+  - [Other](#other)
 
-- Wasabi Soy: soy sauce, low sodium soy sauce, dashi, hon dashi, water, wasabi
-- Yuzu Soy: yuzu juice, soy sauce
-- Chili Soy Sauce: Ginger, negi, ryu, sesame and olive oil, ponzu
-- Ponzu: Rice vinegar, lemon juice, soy sauce
-- Goma Ponzu: Sesame oil, ponzu, den miso
-- Amazu Ponzu: Sugar, salt, rice wine vinegar, lemon juice, soy sauce
-- Butter Ponzu Sauce: Clarified butter, shichimi, ponzu
-- Tosazu: dashi, mirin, soy sauce
-- Tempura Sauce: dashi, mirin, soy sauce
-- Donburi Sauce: dashi, mirin, soy sauce, (different ratio than tempura sauce)
-- Eel Sauce: soy sauce, sugar, sake, mirin, eel bones
-- Tare: chicken stock, soy sauce, sugar, sake, mirin
-- Light Garlic Sauce: sliced garlic, shichimi, olive oil, soy sauce
-- Spicy Garlic Sauce: chili garlic, sake, sake soy
-- Wasabi Pepper Sauce: butter, olive oil, sliced garlic, black pepper, wasabi, soy sauce, dashi, hon dashi, water, (+sake is used to deglaze pan before the sauce added)
-- Black Bean Sauce: black bean paste (gluten free), sake, black pepper
-- Anticucho: Yellow: aji amarillo
 
 ## Menu
+### Cold Dishes
 
 | Salmon or Yellowtail Tartare | 34
 | Crispy Rice with Spicy Tuna | 29 |
@@ -32,6 +55,9 @@ title: Nobu Menu
 | Baby Spinach Salad with Grilled Shrimp | 36 |
 | Baby Spinach Salad with Lobster | 54 |
 | Black Cod Butter Lettuce (2 pieces) | 16 |
+
+### Hot Dishes
+
 | Roasted Chilean Sea Bass & Cauliflower with Jalapeno Dressing | 49 |
 | Squid 'Pasta' with Light Garlic Sauce | 28 |
 | Rock Shrimp Tempura with Creamy Spicy Sauce or Ponzu| 30|
@@ -55,6 +81,8 @@ title: Nobu Menu
 
 | Nigiri / Sashimi |
 
+### Desserts
+
 BENTO BOX | Valrhona Dark Chocolate Fondant, Imperial Matcha Gelato | 17
 BANANA SOY TOBAN | Soy Caramelized Banana, Candied Pecans, Malaga Gelato | 16
 WHISKY CAPPUCCINO | Cardamom Cream, Toasted Cinnamon Crunch, Espresso Gelato, Whisky Foam | 15
@@ -70,16 +98,15 @@ SASHIMI SELECTION | Chef Choice of 12 pieces of Sashimi, Miso Soup, Rice | 57
  
 ---
 
-## SPECIALTY COCKTAILS
+## Specialty Cocktails
+### Grand Cordon
 
-GRAND CORDON
 Winner of the Nationwide Nobu Cocktail Competition
 Victor H. Carreon of Nobu Newport Beach
 
 KAIKETSU | Uncle Nearest 1856 Whiskey, Apple Shrub, Ginger Syrup, Matsuhisa Cabernet Sauvignon Reduction & Orange Bitters | 20
-COCO LIME (12 oz Bottle) | Hokusetsu Sake, Coconut, Lime & Monk Fruit Syrup | 36
 
-## LIGHT, CRISP & REFRESHING
+COCO LIME (12 oz Bottle) | Hokusetsu Sake, Coconut, Lime & Monk Fruit Syrup | 36
 
 | LYCHEE MARTINI | Spring 44 Vodka, Lychee | 19
 | MATSUHISA MARTINI | Belvedere Vodka, Junmai Sake, Ginger | 19
@@ -94,28 +121,39 @@ COCO LIME (12 oz Bottle) | Hokusetsu Sake, Coconut, Lime & Monk Fruit Syrup | 36
 
 ---
 
-## WINES BY THE GLASS
-### RESERVE SELECTION
+## Wines by the Galss
+### Reserve Selection
 
 Pascal Cotat 'Les Monts Damnes', | Sancerre, Loire, France 18 | 35
 Silver Oak, Cabernet Sauvignon, Alexander Valley, California 15 | 55
 
-### CHAMPAGNE & SPARKLING WINE
+### Champange & Sparkling Wine
 
 Syltbar, Prosecco, Italy NV | 18
 Nobu Champagne, Brut Grand Cru, Verzy, France NV | 22
 Lanson Brut, Rose, France NV | 25
 Jakob Schneider, Riesling Kabinett, Niederhauser Klamm, Germany 16 | 15
+
+### White Wine
+
 Attems, Pinot Grigio, Fruili, Italy 19 | 16
 Squealing Pig, Sauvignon Blanc, Marlborough, New Zealand 18 | 17
 Nobu Matsuhisa, Chardonnay, Russian River, California 18 | 20
+
+### Rose
+
 Chateau la Clapiere 'Cru Classe', Cotes du Provence, France 18 | 19
+
+### Red Wine
+
 Arinzano 'Hacienda' Tempranillo, Pago de Arinzano, Spain 15 | 16
 Achaval-Ferrer, Malbec, Mendoza, Argentina 18 | 17
 Cambiata, Pinot Noir, Santa Lucia Highlands, California 17 | 18
 Nobu Matsuhisa, Cabernet Sauvignon, Sonoma, California 17 | 23
 
-## HOKUSETSU SAKE SELECTION
+---
+
+## Hokusetsu Sake Selection
 
 Exclusively Imported for Nobu Worldwide
 
@@ -133,12 +171,18 @@ JUNMAI DAIGINJO TK40 GENSHU ENSHINBUNRI 'HIKARI' | The rare hybrid rice grain, K
 YK-35 SHIZUKU | The most sought-after rice grain, Yamada Nishiki, is polished to 35% of its original size to produce this premium sake. The sake is extracted through a slow drip process that highlights delicate flavors of Lychee, Honeydew, and Pear. Fruit forward and amazingly smooth. |Bottle 24 oz | 400
 DAIGINJO YK35 SHIZUKU JUKUSEI KOSHU | This is the YK35 Shizuku, aged for three years. The aging process has added structure to the delicate Nashi Pear flavor becoming highly complex with a deep richness not found in young sake. This is made in extremely limited quantities. | Bottle 60 oz | 2,500
 
+---
 
 ## Beer
 
 Koshihikari Echigo Rice Lager | 14
 Kawaba 'Sunrise' Amber Ale | 14
 Hitachino Nest Red Rice Ale | 14
+
+---
+
+## Whiskey
+
 Iwai, 'Tradition', Blended | 20
 Nikka Taketsuru Pure Malt Blended | 20
 Togouchi, 'Malt Grain', Blended | 20
@@ -151,10 +195,14 @@ Suntory, 'Yamazaki,' Single Malt, 12 yr | 32
 Nikka Whisky 'From the Barrel' | 36
 Nikka 'Miyagikyo', Single Malt | 38
 Nikka 'Yoichi', Single Malt | 48
-Suntory, 'Hakushu,' Single Malt, 18 yr | 55
+Suntory, 'Hakushu,' Single Malt, 18 yr | 55 |
 
-## NOBU WHISKY, SINGLE MALT | Yamazaki, Osaka
+
+### Nobu Whisky, Single Malt \| Yamazaki, Osaka
+
 SUNTORY 'YAMAZAKI', SINGLE MALT, 25 YR
+
+### Bourbon
 
 Hudson, 'Baby Bourbon', New York | 16
 Basil Hayden's 8 yr, Kentucky | 17
@@ -164,6 +212,7 @@ Blanton's, 'Single Barrel', Kentucky | 18
 Kentucky Owl, 'Wise Man', Kentucky | 30
 High West, Double Rye, Utah | 16
 Whistle Pig, Rye, Vermont | 19
+
 Bruichladdich 'Classic Barley', Islay, 10 yr | 16
 Monkey Shoulder, Speyside | 16
 Glenfiddich, Speyside, 12 yr | 17
@@ -176,11 +225,25 @@ Johnnie Walker, 'Blue Label' | 55
 Balvenie, Speyside, 21 yr | 70
 Macallan, Speyside, 25 yr | 240
 Macallan 'Reflexion,' Speyside | 300
-Ketel One, Holland (Citroen, Oranj) | 17
 
+---
+
+## Vodka
+
+Ketel One, Holland (Citroen, Oranj) | 17
 Stolichnaya, Latvia (Razberi, Vanil) | 17
 Beluga 'Gold Line,' Russia | 28
+
+---
+
+## Gin
+
 Greenhook Ginsmiths, Brooklyn | 16
+
+---
+
+## Rum 
+
 Monkey 47 Schwarzwald Dry, Germany | 20
 Yaguara, 'Blend', Cachaça, Brazil | 14
 Sailor Jerry 'Spiced Rum', Carribean | 15
@@ -191,13 +254,19 @@ Ron Zacapa, 'XO Solera', Guatemala | 28
 Del Maguey 'Vida', Espadin | 16
 El Maestro Sierra Pedro Ximenez NV | 12
 
+---
+
+## Non-Alcoholic Drinks
+
 LYCHEE MANGO | Mango, Lychee & Cranberry | 12
 WILD ORCHID | Black Orchid Tea, Elderflower Cordial, Blackberry & Lemon | 12
 PEPINO | Cucumber, Lychee, Pineapple & Lemon | 12
 GRAPEFRUIT ON THE ROCKS | Grapefruit Juice, Elderflower Cordial, Lime & Grated Lime Zest | 12
 Ferrarelle Sparkling Water | 10
 
-## IKAATI HANDCRAFTED WHOLE LEAF TEA
+---
+
+## Ikaati Tea
 
 HOJICHA | Warm smoky notes with hints of caramel | 9
 BLACK ORCHID | Ylang ylang flower scented, with smooth vanilla & mandarin notes | 9
@@ -206,7 +275,9 @@ SOBACHA | Rich malty and nutty aroma with a smooth buttery finish | 9
 LEMONGRASS GINGER | Aromatic lemongrass, balanced with warm, spicy ginger | 9
 SOOTHE | Comforting floral note with relaxing minty scent | 9
 
-## champagne & sparkling
+---
+
+## Champagne & Sparkling
 
 BIN#110: Syltbar, Prosecco, Italy NV | 85
 BIN#115: Gaston Chiquet 'Tradition', Brut NV | 110
@@ -220,21 +291,27 @@ BIN#155: Perrier Jouet 'Cuvee Belle Epoque' 07 | 365
 BIN#160: Dom Perignon, Brut 06 | 450
 BIN#165: Veuve Clicquot 'La Grande Dame', Brut 08 | 475
 
-## ROSE CHAMPAGNE & SPARKLING
+---
+
+## Rose Champagne & Sparkling
 
 BIN#210: Moet Chandon 'Imperial', Rose NV | 160
 BIN#215: Billecart-Salmon, Brut Rose NV | 185
 BIN#228: Krug, Brut Rose NV | 400
 BIN#230: Dom Perignon Brut Rose 06 | 1,100
 
-## ROSE WINE
+---
+
+## Rose
 
 BIN#60: Chateau la Clapiere 'Cru Classe', Cotes du Provence 18| 65
 BIN#70: Chateau Minuty ‘Rose et Or', Cotes de Provence 18| 85
 BIN#30: Kenzo Estate 'Yui', Napa Valley 16 (Half Bottle 375ml)| 88
 BIN#90: Kenzo Estate ‘Yui’, Napa Valley 16| 168
 
-## WHITE WINE
+---
+
+## White Wine
 ### Light, Crisp & Refreshing
 
 BIN#311: Attems, Pinot Grigio, Friuli, Italy 19 | 60
@@ -246,7 +323,6 @@ BIN#390: Cloudy Bay, 'Tekoko', Marlborough, New Zealand 15 | 175
 BIN#392: Pascal Cotat 'Les Monts Damnes', Sancerre, Loire, France 18 | 140
 BIN#395: Gaja "Alteni di Brassica', Sauvignon Blanc, Langhe, Italy 16 | 400
 
-## WHITE WINE
 ### Spicy & Aromatic
 
 BIN#400: Jakob Schneider, Riesling Kabinett, Niederhauser Klamm, Germany 16 | 58
@@ -260,7 +336,6 @@ BIN#440: Schloss Johannisberg, Riesling Grunlack Spätlese, Rheingau, Germany 16
 BIN#450: Aruga 'Nobu Koshu', Katsunuma, Japan 15 | 165
 BIN#460: Jermann 'Vintage Tunina', White Blend, Venezia Giulia, Itally 16 | 165
 
-## WHITE WINE
 ### Rich & Full Bodied
 
 BIN#500: Nobu Matsuhisa, Chardonnay, Russian River, California 18 | 80
@@ -286,7 +361,7 @@ BIN#620: Chateau de Puligny-Montrachet, Grand Cru, Chevalier Montrachet, Burgund
 BIN#622: Jean Noel Gagnard, Grand Cru, Batard-Montrachet, Burgundy, France 14 | 990
 BIN#625: Chateau de Puligny-Montrachet, Grand Cru, Montrachet, Burgundy, France 11 | 2,000
 
-## RED WINE
+## Red Wine
 ### Light & Medium Bodied
 
 BIN#710: Arinzano 'Hacienda' Tempranillo, Pago de Arinzano, Spain 15 | 62
@@ -307,7 +382,6 @@ BIN#795: Domaine de l'Arlot 'Clos des Forets Saint Georges' 1er Cru, Nuits-Saint
 BIN#815: Domaine Chandon de Briailles Grand Cru, Corton-Marechaudes, Burgundy, France 16 | 450
 BIN#820: Domaine de la Vougeraie, Clos de Vougeot, Grand Cru, Burgundy, France 16 | 500
 
-## RED WINE
 ### Robust & Spicy
 
 BIN#825: Achaval-Ferrer, Malbec, Mendoza, Argentina 18 | 65
@@ -317,7 +391,6 @@ BIN#840: Stag's Leap, Petite Sirah, Napa, California 16 | 120
 BIN#850: Masi 'Costasera,' Amarone, Veneto, Italy 15 | 160
 BIN#880: Henschke 'Hill of Grace', Shiraz, Eden Valley, Australia 10 | 1,250
 
-## RED WINE
 ### Rich & Full Bodied
 
 BIN#910: Nobu Matsuhisa, Cabernet Sauvignon, Sonoma, California 17 | 90
@@ -342,3 +415,49 @@ BIN#1022: Hundred Acre 'Ark Vineyards', Cabernet Sauvignon, Howell Mountain, Nap
 BIN#1025: ZD 'Abacus', Cabernet Sauvignon, Napa, California '19th Bottling' | 1,675
 BIN#1030: Chateau Margaux, 1er Grand Cru, Haut-Medoc, Bordeaux, France 06 | 1,900
 BIN#1035: Chateau Mouton Rothschild, 1er Grand Cru, Pauillac, Bordeaux, France 10 | 3,300
+
+## Sauces
+
+### Dressing
+
+Matsuhisa Dressing | minced onion, sesame oil, grapeseed oil, soy sauce, rice vinegar, japanese mustard, black pepper, sugar
+Yuzu Dressing | grapeseed oil, soy sauce, yuzu juice, garlic puree, black pepper
+Spicy Lemon Dressing | grapeseed oil, soy sauce, lemon juice, cayenne pepper, garlic puree, black pepper, salt
+Ceviche Sauce | aji amarillo, lemon juice, soy sauce, salt, garlic puree, black pepper, ginger and yuzu juice, ensui (egg white, salt, water)
+Tofu Truffle Dressing | tofu, truffle oil, grapeseed oil, white soy, vinegar, salt, pepper
+Tofu Aioli | tofu, yuzu juice, olive oil
+
+### Aioli Based Sauces
+
+### Miso Based Sauces
+
+### Salsas
+
+### Soy Based Sauces
+
+Wasabi Soy| soy sauce, low sodium soy sauce, dashi, hon dashi, water, wasabi 
+Yuzu Soy| yuzu juice, soy sauce 
+Chili Soy Sauce| Ginger, negi, ryu, sesame and olive oil, ponzu 
+Ponzu| Rice vinegar, lemon juice, soy sauce 
+Goma Ponzu| Sesame oil, ponzu, den miso 
+Amazu Ponzu| Sugar, salt, rice wine vinegar, lemon juice, soy sauce 
+Butter Ponzu Sauce| Clarified butter, shichimi, ponzu 
+Tosazu| dashi, mirin, soy sauce 
+Tempura Sauce| dashi, mirin, soy sauce 
+Donburi Sauce| dashi, mirin, soy sauce, (different ratio than tempura sauce) 
+Eel Sauce| soy sauce, sugar, sake, mirin, eel bones 
+Tare| chicken stock, soy sauce, sugar, sake, mirin 
+Light Garlic Sauce| sliced garlic, shichimi, olive oil, soy sauce 
+Spicy Garlic Sauce| chili garlic, sake, sake soy 
+Wasabi Pepper Sauce| butter, olive oil, sliced garlic, black pepper, wasabi, soy sauce, dashi, hon dashi,  water, (+sake is used to deglaze pan before the sauce added)
+Black Bean Sauce| black bean paste (gluten free), sake, black pepper 
+Anticucho Yellow| aji amarillo 
+
+### Other
+
+Teriyaki | Chicken stock (roasted chicken bones boiled with water, carrots, onion and celery), soy sauce, sugar, mirin, sake
+Spicy Dashi Broth | dashi, vinegar, kochijan (Korean spicy miso paste and sake soy), garlic, ginger, salt, low sodium soy, yuzu juice, red onion, cilantro & cucumber
+Egg Sauce | egg yolks, clarified butter, lemon juice, soy sauce
+Chimichurri | cilantro, parsley, shiso, scallion, garlic, myoga (ginger bulb), jalapeno
+Poke Sauce | den miso, ponzu, aji amarillo, ryu
+Umami Marinade | mixed vegetables (leek, onions, carrots, ginger, sweet potato, potato, celery, garlic, daikon), dry konbu, dried chili, salt, soy salt
