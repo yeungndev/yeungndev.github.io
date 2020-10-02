@@ -9,7 +9,7 @@ title: Nobu Menu
   - [Desserts](#desserts)
 - [Specialty Cocktails](#specialty-cocktails)
   - [Grand Cordon](#grand-cordon)
-- [Wines by the Galss](#wines-by-the-galss)
+- [Wines by the Glass](#wines-by-the-glass)
   - [Reserve Selection](#reserve-selection)
   - [Champange & Sparkling Wine](#champange--sparkling-wine)
   - [White Wine](#white-wine)
@@ -121,7 +121,7 @@ COCO LIME (12 oz Bottle) | Hokusetsu Sake, Coconut, Lime & Monk Fruit Syrup | 36
 
 ---
 
-## Wines by the Galss
+## Wines by the Glass
 ### Reserve Selection
 
 Pascal Cotat 'Les Monts Damnes', | Sancerre, Loire, France 18 | 35
