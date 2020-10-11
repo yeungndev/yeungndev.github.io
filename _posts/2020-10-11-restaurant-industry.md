@@ -1,6 +1,7 @@
 ---
 layout: post
 title: restaurant pos
+tags: restaurants-industry
 ---
 
 ## Links to some good ideas

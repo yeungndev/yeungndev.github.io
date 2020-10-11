@@ -1,6 +1,7 @@
 ---
 layout: post
 title: how to guide
+tags: how-to
 ---
 
 ### Guide

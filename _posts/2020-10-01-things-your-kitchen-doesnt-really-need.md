@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 19 Things Your Kitchen Doesn’t Really Need
+tags: ideas tools kitchen
 ---
 
 

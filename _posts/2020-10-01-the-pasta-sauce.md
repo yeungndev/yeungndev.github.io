@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Pasta Sauce Hailed as the World’s Best Is Surprisingly Easy to Make at Home
+tags: recipe
 ---
 
 getpocket.com

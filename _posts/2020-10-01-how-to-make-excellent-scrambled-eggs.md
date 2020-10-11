@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to make excellent scrambled eggs, just the way you like them
+tags: recipe
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: learning resources
+tags: learning
 ---
 
 ### Learn

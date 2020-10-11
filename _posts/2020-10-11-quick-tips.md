@@ -1,6 +1,7 @@
 ---
 layout: post
 title: quick tips
+tags: quick-tips
 ---
 
 ### Quick Tip

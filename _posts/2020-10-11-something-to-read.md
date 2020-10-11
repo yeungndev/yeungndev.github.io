@@ -1,6 +1,7 @@
 ---
 layout: post
 title: something to read
+tags: reading
 ---
 
 ### Books 

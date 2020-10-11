@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Beef and Broccoli in the Slow Cooker
+tags: recipe
 ---
 
 getpocket.com

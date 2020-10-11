@@ -1,6 +1,7 @@
 ---
 layout: post
 title: recommended reading
+tags: reading
 ---
 
 ### Recommended Reading
