@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: post
+title: learning resources
 ---
 
 ### Learn

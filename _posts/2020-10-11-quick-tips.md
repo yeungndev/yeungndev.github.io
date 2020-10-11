@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: post
+title: quick tips
 ---
 
 ### Quick Tip
