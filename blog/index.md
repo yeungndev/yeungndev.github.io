@@ -3,6 +3,10 @@ layout: page
 title: blog
 ---
 
+{% include search.html %}
+
+---
+
 <ul class="posts">
   {% for post in site.posts %}
     {% if post.layout != "none" %}
