@@ -1,1 +1,1 @@
-Github pages for [yeungndev.github.io](https://yeungndev.github.io)
+Github page for [yeungndev.github.io](https://yeungndev.github.io)
